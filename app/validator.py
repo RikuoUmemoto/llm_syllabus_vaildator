@@ -221,9 +221,6 @@ def call_ollama(model: str, system: str, user: str) -> str:
         return r.text
 
 
-def call_openai(model: str, system: str, user: str) -> str:
-    raise RuntimeError("OpenAI provider is not configured in this build.")
-
 import re
 import json
 
