@@ -1,0 +1,116 @@
+title,teacher,Quiz,Exam,Report,Project,Participation,Other,total,is100,weeks,alerts
+COT100XE（計算基盤 / Computing technologies 100）プログラミング言語Ｃ＋＋／Programming Language C++,彌冨　仁（Hitoshi IYATOMI）,0,0,0,0,0,100.0,100.0,TRUE,14,
+COT100XE（計算基盤 / Computing technologies 100）プログラミング言語Ｃ＋＋／Programming Language C++,和佐　州洋（Kunihiro WASA）,40.0,60.0,0,0,0,0,100.0,TRUE,14,
+MAT200XE（数学 / Mathematics 200）数論／Number Theory,安田　幹（Kan YASUDA）,0,50.0,50.0,0,0,50.0,150.0,FALSE,14,評価割合の合計が100%ではありません（合計 150.0%）。
+COT200XE（計算基盤 / Computing technologies 200）プログラミング言語ＪＡＶＡ／Programming Language JAVA,山口　大輔（Daisuke YAMAGUCHI）,50.0,0,50.0,0,0,0,100.0,TRUE,14,
+COT200XE（計算基盤 / Computing technologies 200）プログラミング言語ＪＡＶＡ／Programming Language JAVA,山口　大輔（Daisuke YAMAGUCHI）,50.0,0,50.0,0,0,0,100.0,TRUE,14,
+OTR300XE（その他 / Others 300）ＰＢＬ／Project Based Learning,彌冨　仁、尾川　浩一、金井　敦、品川　満、平原　誠、三橋　秀生、李　磊、周　金佳、和佐　州洋、山岸　昌夫,0,0,0,0,0,0,0,FALSE,28,評価割合の記載が抽出できませんでした（LLM出力が空）。 | 評価割合の合計が100%ではありません（合計 0%）。
+OTR300XE（その他 / Others 300）インターンシップ／Internship Education Program,和田　幸一（Koichi WADA）,0,0,0.0,0,0,0,0.0,FALSE,14,評価割合の合計が100%ではありません（合計 0.0%）。
+BSP100XE（初年次教育、学部導入教育及びリテラシー教育 / Basic study practice 100）情報工学入門／Introduction to information engineering,彌冨　仁、尾川　浩一、金井　敦、品川　満、平原　誠、三橋　秀生、李　磊、和田　幸一、周　金佳、和佐　州洋、山岸　昌夫,0,0,0,0,0,0,0,FALSE,14,評価割合の記載が抽出できませんでした（LLM出力が空）。 | 評価割合の合計が100%ではありません（合計 0%）。
+PRI100XE（情報学基礎 / Principles of informatics 100）集合と命題論理／Propositional logic and set theory,阿部　吉弘（Yoshihiro ABE）,0,0,0,0,0,0,0,FALSE,14,評価割合の記載が抽出できませんでした（LLM出力が空）。 | 評価割合の合計が100%ではありません（合計 0%）。
+PRI200XE（情報学基礎 / Principles of informatics 200）データ構造とアルゴリズム／Data structure and algorithm,李　磊（Lilei LILEI）,0,100.0,0,0,0,0,100.0,TRUE,14,
+HUI200XE（人間情報学 / Human informatics 200）セキュリティ概論／Overview of network security,金井　敦（Atsushi KANAI）,0,70.0,0,0,0,0,70.0,FALSE,14,評価割合の合計が100%ではありません（合計 70.0%）。
+ELC100XE（電気電子工学 / Electrical and electronic engineering 100）基礎電気回路（情報）／Fundamental of electrical circuits,品川　満（Mitsuru SHINAGAWA）,0,70.0,0,0,0,30.0,100.0,TRUE,14,
+COT100XE（計算基盤 / Computing technologies 100）組込システムの基礎／Fundamental of embedded systems,足立　正二（Shoji ADACHI）,30.0,0,70.0,0,0,0,100.0,TRUE,14,
+COT200XE（計算基盤 / Computing technologies 200）計算機アーキテクチャ／Computer architecture,和田　幸一（Koichi WADA）,40.0,60.0,0,0,0,0,100.0,TRUE,14,
+COT200XE（計算基盤 / Computing technologies 200）計算機アーキテクチャ演習／Exercises in computer architecture,和田　幸一（Koichi WADA）,0,0,100.0,0,0,0,100.0,TRUE,14,
+HUI100XE（人間情報学 / Human informatics 100）論理回路／Basic logic circuitry,枚田　明彦（Akihiko HIRATA）,20.0,80.0,0,0,0,0,100.0,TRUE,14,
+COT200XE（計算基盤 / Computing technologies 200）情報理論／Information theory,尾川　浩一（Ogawa KOICHI）,20.0,80.0,0,0,0,0,100.0,TRUE,14,
+COT200XE（計算基盤 / Computing technologies 200）形式言語とオートマトン／Formal language theory and automata,和佐　州洋（Kunihiro WASA）,0,100.0,0,0,0,0,100.0,TRUE,14,
+COT200XE（計算基盤 / Computing technologies 200）アセンブリ言語／Assembly language,和田　幸一（Koichi WADA）,0,0,0,0,0,100.0,100.0,TRUE,14,
+COT200XE（計算基盤 / Computing technologies 200）アセンブリ言語演習／Exercises in assembly language,和田　幸一（Koichi WADA）,0,0,0,0,0,100.0,100.0,TRUE,14,
+COT200XE（計算基盤 / Computing technologies 200）オペレーティングシステム／Operating system,和田　英彦（Hidehiko WADA）,60.0,0,30.0,0,10.0,0,100.0,TRUE,14,
+COT200XE（計算基盤 / Computing technologies 200）データベース／Fundamental of databases,佐々木　整（Hitoshi SASAKI）,70.0,0,0,0,0,0,100.0,TRUE,14,
+COT200XE（計算基盤 / Computing technologies 200）Ｗｅｂ技術論／Web technology,百田　潤子（Junko MOMOTA）,0,0,0,0,0,0,0,FALSE,14,評価割合の記載が抽出できませんでした（LLM出力が空）。 | 評価割合の合計が100%ではありません（合計 0%）。
+PRI200XE（情報学基礎 / Principles of informatics 200）組み合わせアルゴリズム／Combinatorics,李　磊（Lilei LILEI）,0,100.0,0,0,0,0,100.0,TRUE,14,
+HUI200XE（人間情報学 / Human informatics 200）ヒューマンインタフェース／Human-computer interface,山岸　昌夫（Masao YAMAGISHI）,0,70.0,0,0,0,0,100.0,TRUE,14,
+HUI200XE（人間情報学 / Human informatics 200）認知心理学／Cognitive psychology,作田　由衣子（Yuiko SAKUTA）,0,0,70.0,0,30.0,0,100.0,TRUE,14,
+HUI200XE（人間情報学 / Human informatics 200）人工知能概論　／Overview of artificial intelligence,平松　薫（Kaoru HIRAMATSU）,60.0,0,40.0,0,0,0,100.0,TRUE,14,
+COT200XE（計算基盤 / Computing technologies 200）Ｗｅｂ／ＸＭＬ演習／Web and XML exercises,百田　潤子（Junko MOMOTA）,0,0,0,0,0,0,0,FALSE,14,評価割合の記載が抽出できませんでした（LLM出力が空）。 | 評価割合の合計が100%ではありません（合計 0%）。
+COT200XE（計算基盤 / Computing technologies 200）符号と暗号の理論／Coding theory and cryptography,多田　秀樹（Hideki TADA）,0,100.0,0,0,0,0,100.0,TRUE,14,
+COT200XE（計算基盤 / Computing technologies 200）計算量の理論／Computational complexity,戸田　貴久（Takahisa TODA）,0,50.0,50.0,0,0,0,100.0,TRUE,14,
+HUI300XE（人間情報学 / Human informatics 300）画像診断装置概論／Overview of medical imaging apparatuses,尾川　浩一（Ogawa KOICHI）,0,80.0,0,0,0,20.0,100.0,TRUE,14,
+COT200XE（計算基盤 / Computing technologies 200）ネットワークプログラミング／Network programming,下村　道夫（Michio SHIMOMURA）,0,0,100.0,0,0,0,100.0,TRUE,14,
+ELC200XE（電気電子工学 / Electrical and electronic engineering 200）組込ソフトウェア開発／Embedded system development I,若林　哲（Satoshi WAKABAYASHI）,0,0,0,0,0,70.0,100.0,TRUE,14,
+COT200XE（計算基盤 / Computing technologies 200）ＶＬＳＩ入門／Introduction of VLSI systems,武田　実（Minoru TAKEDA）,0,0,0,0,0,100.0,100.0,TRUE,14,
+HUI200XE（人間情報学 / Human informatics 200）感性工学／KANSEI engineering,倉掛　正治（Shoji KURAKAKE）,90.0,0,10.0,0,0,0,100.0,TRUE,14,
+HUI300EX（人間情報学 / Human informatics 300）情報工学実験2／Experiments in Information Engineering II,李　磊、和田　幸一、周　金佳、山岸　昌夫,0,50.0,50.0,0,0,0,100.0,TRUE,14,
+COT300XE（計算基盤 / Computing technologies 300）オペレーティングシステム演習／Exercises in operating system,斉藤　典明（Noriaki SAITO）,0,0,0,0,0.0,90.0,90.0,FALSE,14,評価割合の合計が100%ではありません（合計 90.0%）。
+COT300XE（計算基盤 / Computing technologies 300）情報工学実験3／Experiments in information engineering III,彌冨　仁、尾川　浩一、金井　敦、品川　満、平原　誠、三橋　秀生、李　磊、周　金佳、和佐　州洋、山岸　昌夫,0,0,0,0,0,0,0,FALSE,14,評価割合の記載が抽出できませんでした（LLM出力が空）。 | 評価割合の合計が100%ではありません（合計 0%）。
+COT300XE（計算基盤 / Computing technologies 300）情報工学ゼミナール／Seminar on information engineering,彌冨　仁、尾川　浩一、金井　敦、呉　謙、品川　満、平原　誠、三橋　秀生、李　磊、周　金佳、和佐　州洋、山岸　昌夫,0,0,0,0,0,0,0,FALSE,14,評価割合の記載が抽出できませんでした（LLM出力が空）。 | 評価割合の合計が100%ではありません（合計 0%）。
+COT300XE（計算基盤 / Computing technologies 300）情報ネットワーク設計論／Information network design,金井　敦（Atsushi KANAI）,0,0,0,0,0,60.0,60.0,FALSE,14,評価割合の合計が100%ではありません（合計 60.0%）。
+COT300XE（計算基盤 / Computing technologies 300）コンパイラ／Compiler,和佐　州洋（Kunihiro WASA）,0,100.0,0,0,0,0,100.0,TRUE,14,
+COT300XE（計算基盤 / Computing technologies 300）コンパイラ演習／Exercise in Compiler,和佐　州洋（Kunihiro WASA）,0,0,0,0,0,60.0,60.0,FALSE,14,評価割合の合計が100%ではありません（合計 60.0%）。
+COT300XE（計算基盤 / Computing technologies 300）リアルタイムＯＳとプロセッサ／Real-time OS and processors,和田　英彦（Hidehiko WADA）,60.0,0,30.0,0,10.0,0,100.0,TRUE,14,
+COT300XE（計算基盤 / Computing technologies 300）分散アルゴリズム／Distributed algorithms,和田　幸一（Koichi WADA）,60.0,0,40.0,0,0,0,100.0,TRUE,14,
+COT300XE（計算基盤 / Computing technologies 300）セマンティックＷｅｂ／Semantic Web,江上　周作（Shusaku EGAMI）,0,0,100.0,0,0,0,100.0,TRUE,14,
+HUI300XE（人間情報学 / Human informatics 300）画像工学／Image processing,尾川　浩一（Ogawa KOICHI）,0,70.0,30.0,0,0,0,100.0,TRUE,14,
+COT300XE（計算基盤 / Computing technologies 300）組込モデリング／Modeling for embedded system,若林　哲（Satoshi WAKABAYASHI）,0,0,60.0,0,0,0,100.0,TRUE,14,
+COT300XE（計算基盤 / Computing technologies 300）ネットワークアプリケーション設計論／Network application design,原　潤一,0,0,0,0,0,0,0,FALSE,14,評価割合の記載が抽出できませんでした（LLM出力が空）。 | 評価割合の合計が100%ではありません（合計 0%）。
+COT300XE（計算基盤 / Computing technologies 300）自然言語処理／Natural language processing,壹岐　太一（Taichi IKI）,0,0,50.0,0,10.0,0,100.0,TRUE,14,
+COT300XE（計算基盤 / Computing technologies 300）ソフトコンピューティング／Soft computing,李　磊（Lilei LILEI）,0,0,0,0,0,0,0,FALSE,14,評価割合の記載が抽出できませんでした（LLM出力が空）。 | 評価割合の合計が100%ではありません（合計 0%）。
+COT300XE（計算基盤 / Computing technologies 300）Ｗｅｂデザイン／Web design,百田　潤子（Junko MOMOTA）,0,0,0,0,0,100.0,100.0,TRUE,14,
+HUI300XE（人間情報学 / Human informatics 300）エージェント技術／Agent technology,江上　周作（Shusaku EGAMI）,0,0,90.0,0,0,10.0,100.0,TRUE,14,
+COT300XE（計算基盤 / Computing technologies 300）認証技術／Authentication technique,藤堂　洋介（Yosuke TODO）,80.0,0,0,0,0,20.0,100.0,TRUE,14,
+COT300XE（計算基盤 / Computing technologies 300）プログラミング言語理論・設計／Programming language theory and design,和佐　州洋（Kunihiro WASA）,0,100.0,0,0,0,0,100.0,TRUE,14,
+COT300XE（計算基盤 / Computing technologies 300）パターン認識／Pattern recognition,志水　信哉（Shinya SHIMIZU）,0,0,70.0,0,30.0,0,100.0,TRUE,14,
+COT400XE（計算基盤 / Computing technologies 400）セキュアシステム設計／Secure system and design,金井　敦（Atsushi KANAI）,0,0,0,0,0,60.0,60.0,FALSE,14,評価割合の合計が100%ではありません（合計 60.0%）。
+COT400XE（計算基盤 / Computing technologies 400）コンピュータビジョン／Computer vision,清水　郁子（Ikuko SHIMIZU）,0,0,60.0,0,10.0,0,100.0,TRUE,14,
+HUI400XE（人間情報学 / Human informatics 400）コンピュータグラフィックス／Computer graphics,斎藤　隆文（Takafumi SAITO）,0,50.0,0,0,0,50.0,100.0,TRUE,14,
+COT300XE（計算基盤 / Computing technologies 300）組込アプリケーション／Embedded application,門　勇一,0,0,0,0,0,100.0,100.0,TRUE,14,
+HUI300EX（人間情報学 / Human informatics 300）IoTネットワーク／IoT Network Technology,若林　哲（Satoshi WAKABAYASHI）,50.0,0,50.0,0,0,0,150.0,FALSE,14,評価割合の合計が100%ではありません（合計 150.0%）。
+COT100XE（計算基盤 / Computing technologies 100）情報ネットワーク概論／Introduction of Information Network,呉　謙（Qian WU）,0,80.0,0,0,20.0,0,100.0,TRUE,14,
+COT100XE（計算基盤 / Computing technologies 100）インターネットプロトコル／Protocol for Internet,金井　敦（Atsushi KANAI）,0,70.0,0,0,0,0,70.0,FALSE,14,評価割合の合計が100%ではありません（合計 70.0%）。
+HUI200EX（人間情報学 / Human informatics 200）コンピュータビジョン基礎／Basic of Computer Vision,周　金佳（Jinjia ZHOU）,50.0,40.0,0,0,10.0,0,100.0,TRUE,14,
+ELC200XE（電気電子工学 / Electrical and electronic engineering 200）電磁気学基礎／Basic Electromagnetism,品川　満（Mitsuru SHINAGAWA）,0,100.0,0,0,0,0,100.0,TRUE,14,
+COT300XE（計算基盤 / Computing technologies 300）マルチモーダル情報処理／Multi-modal Information Processing,倉掛　正治（Shoji KURAKAKE）,0,0,60.0,0,0,40.0,100.0,TRUE,14,
+COS300XE（計算科学 / Computational science 300）最適化数学／Optimization,平原　誠（Hirahara MAKOTO）,0,0,0,0,0,100.0,100.0,TRUE,14,
+COT300XE（計算基盤 / Computing technologies 300）クラウドコンピューティング／Cloud Computing,下村　道夫（Michio SHIMOMURA）,30.0,0,70.0,0,0,0,100.0,TRUE,14,
+HUI200XE（人間情報学 / Human informatics 200）組込制御工学／Embedded System Control Engineering,武田　実（Minoru TAKEDA）,0,100.0,0,0,0,0,100.0,TRUE,14,
+COT300XE（計算基盤 / Computing technologies 300）ハードウェアアルゴリズム／Hardware algorithms,和田　幸一、藤本　典幸,0,0,100.0,0,0,0,100.0,TRUE,14,
+MAT100XE（数学 / Mathematics 100）離散数学（情報）／Discrete Mathematics,山岸　昌夫（Masao YAMAGISHI）,0,100.0,0,0,0,0,100.0,TRUE,14,
+COT100XE（計算基盤 / Computing technologies 100）プログラミング言語Ｃ（情報）／Programming Language C,平原　誠（Hirahara MAKOTO）,0,0,0,0,0,100.0,100.0,TRUE,14,
+COT100XE（計算基盤 / Computing technologies 100）プログラミング言語Ｃ（情報）／Programming Language C,尾川　浩一（Ogawa KOICHI）,0,0,0,0,0,100.0,100.0,TRUE,14,
+COT100XE（計算基盤 / Computing technologies 100）プログラミング言語Ｃ演習（情報）／Seminar on Programming Language C,平原　誠（Hirahara MAKOTO）,0,0,0,0,0,100.0,100.0,TRUE,14,
+COT100XE（計算基盤 / Computing technologies 100）プログラミング言語Ｃ演習（情報）／Seminar on Programming Language C,尾川　浩一（Ogawa KOICHI）,0,0,0,0,0,100.0,100.0,TRUE,14,
+BSP100XE（初年次教育、学部導入教育及びリテラシー教育 / Basic study practice 100）自然科学の方法（情報）／Methods in the Natural Sciences,彌冨　仁（Hitoshi IYATOMI）,0,0,50.0,0,0,50.0,100.0,TRUE,14,
+COT300XE（計算基盤 / Computing technologies 300）ビッグデータ情報分析／Big Data Information Analysis,庄原　誠（Makoto SHOHARA）,0,90.0,0,0,10.0,0,100.0,TRUE,14,
+PHY200XE（物理学 / Physics 200）物理学応用（情報）／Applied Physics,原　仁（Hitoshi HARA）,0,50.0,0,0,0,50.0,100.0,TRUE,14,
+OTR400XE（その他 / Others 400）卒業研究／Research for bachelor’s degree,山岸　昌夫（Masao YAMAGISHI）,0,0,0,0,0,0,0,FALSE,28,評価割合の記載が抽出できませんでした（LLM出力が空）。 | 評価割合の合計が100%ではありません（合計 0%）。
+OTR400XE（その他 / Others 400）卒業研究／Research for bachelor’s degree,彌冨　仁（Hitoshi IYATOMI）,0,0,0,0,0,0,0,FALSE,28,評価割合の記載が抽出できませんでした（LLM出力が空）。 | 評価割合の合計が100%ではありません（合計 0%）。
+OTR400XE（その他 / Others 400）卒業研究／Research for bachelor’s degree,尾川　浩一（Ogawa KOICHI）,0,0,0,0,0,0,0,FALSE,28,評価割合の記載が抽出できませんでした（LLM出力が空）。 | 評価割合の合計が100%ではありません（合計 0%）。
+OTR400XE（その他 / Others 400）卒業研究／Research for bachelor’s degree,金井　敦（Atsushi KANAI）,0,0,0,0,0,0,0,FALSE,28,評価割合の記載が抽出できませんでした（LLM出力が空）。 | 評価割合の合計が100%ではありません（合計 0%）。
+OTR400XE（その他 / Others 400）卒業研究／Research for bachelor’s degree,品川　満（Mitsuru SHINAGAWA）,0,0,0,0,0,0,0,FALSE,28,評価割合の記載が抽出できませんでした（LLM出力が空）。 | 評価割合の合計が100%ではありません（合計 0%）。
+OTR400XE（その他 / Others 400）卒業研究／Research for bachelor’s degree,平原　誠（Hirahara MAKOTO）,0,0,0,0,0,0,0,FALSE,28,評価割合の記載が抽出できませんでした（LLM出力が空）。 | 評価割合の合計が100%ではありません（合計 0%）。
+OTR400XE（その他 / Others 400）卒業研究／Research for bachelor’s degree,周　金佳（Jinjia ZHOU）,0,0,0,0,0,0,0,FALSE,14,評価割合の記載が抽出できませんでした（LLM出力が空）。 | 評価割合の合計が100%ではありません（合計 0%）。
+OTR400XE（その他 / Others 400）卒業研究／Research for bachelor’s degree,李　磊（Lilei LILEI）,0,0,0,0,0,0,0,FALSE,28,評価割合の記載が抽出できませんでした（LLM出力が空）。 | 評価割合の合計が100%ではありません（合計 0%）。
+OTR400XE（その他 / Others 400）卒業研究／Research for bachelor’s degree,和田　幸一（Koichi WADA）,0,0,0,0,0,0,0,FALSE,14,評価割合の記載が抽出できませんでした（LLM出力が空）。 | 評価割合の合計が100%ではありません（合計 0%）。
+OTR400XE（その他 / Others 400）卒業研究ゼミナール／Seminar for bachelor’s degree,山岸　昌夫（Masao YAMAGISHI）,0,0,0,0,0,0,0,FALSE,14,評価割合の記載が抽出できませんでした（LLM出力が空）。 | 評価割合の合計が100%ではありません（合計 0%）。
+OTR400XE（その他 / Others 400）卒業研究ゼミナール／Seminar for bachelor’s degree,彌冨　仁（Hitoshi IYATOMI）,0,0,0,0,0,0,0,FALSE,14,評価割合の記載が抽出できませんでした（LLM出力が空）。 | 評価割合の合計が100%ではありません（合計 0%）。
+OTR400XE（その他 / Others 400）卒業研究ゼミナール／Seminar for bachelor’s degree,尾川　浩一（Ogawa KOICHI）,0,0,0,0,0,100.0,100.0,TRUE,14,
+OTR400XE（その他 / Others 400）卒業研究ゼミナール／Seminar for bachelor’s degree,金井　敦（Atsushi KANAI）,0,0,0,0,0,0,0,FALSE,14,評価割合の記載が抽出できませんでした（LLM出力が空）。 | 評価割合の合計が100%ではありません（合計 0%）。
+OTR400XE（その他 / Others 400）卒業研究ゼミナール／Seminar for bachelor’s degree,品川　満（Mitsuru SHINAGAWA）,0,0,0,0,0,0,0,FALSE,14,評価割合の記載が抽出できませんでした（LLM出力が空）。 | 評価割合の合計が100%ではありません（合計 0%）。
+OTR400XE（その他 / Others 400）卒業研究ゼミナール／Seminar for bachelor’s degree,平原　誠（Hirahara MAKOTO）,0,0,0,0,0,0,0,FALSE,14,評価割合の記載が抽出できませんでした（LLM出力が空）。 | 評価割合の合計が100%ではありません（合計 0%）。
+OTR400XE（その他 / Others 400）卒業研究ゼミナール／Seminar for bachelor’s degree,周　金佳（Jinjia ZHOU）,0,0,0,0,0,0,0,FALSE,14,評価割合の記載が抽出できませんでした（LLM出力が空）。 | 評価割合の合計が100%ではありません（合計 0%）。
+OTR400XE（その他 / Others 400）卒業研究ゼミナール／Seminar for bachelor’s degree,李　磊（Lilei LILEI）,0,0,0,0,0,100.0,100.0,TRUE,14,
+OTR400XE（その他 / Others 400）卒業研究ゼミナール／Seminar for bachelor’s degree,和田　幸一（Koichi WADA）,0,0,0,0,0,0,0,FALSE,14,評価割合の記載が抽出できませんでした（LLM出力が空）。 | 評価割合の合計が100%ではありません（合計 0%）。
+MAT200XE（数学 / Mathematics 200）応用数学（情報）／Applied Mathematics,陸名　雄一（Yuichi RIKUNA）,0,100.0,0,0,0,0,100.0,TRUE,14,
+MAT200XE（数学 / Mathematics 200）応用解析（情報）／Applied Analysis,陸名　雄一（Yuichi RIKUNA）,0,100.0,0,0,0,0,100.0,TRUE,14,
+ELC200XE（電気電子工学 / Electrical and electronic engineering 200）電子回路／Electronic circuit,品川　満（Mitsuru SHINAGAWA）,0,0,0,0,0,100.0,100.0,TRUE,14,
+COT200XE（計算基盤 / Computing technologies 200）関数型プログラミング／Functional programming,藤田　憲悦（Kenetsu FUJITA）,0,50.0,50.0,0,0,0,100.0,TRUE,14,
+COT200XE（計算基盤 / Computing technologies 200）計算の原理／Principle of computation,西田　誠幸（Seikoh NISHITA）,0,0,0,0,0,100.0,100.0,TRUE,14,
+FRI300XE（情報学フロンティア / Frontiers of informatics 300）アプリケーション開発演習／Exercise on software development,荒谷　光（Akira ARATANI）,0,0,0,0,0,0,0,FALSE,14,評価割合の記載が抽出できませんでした（LLM出力が空）。 | 評価割合の合計が100%ではありません（合計 0%）。
+FRI300XE（情報学フロンティア / Frontiers of informatics 300）機械学習演習／Exercise on machine learning,彌冨　仁（Hitoshi IYATOMI）,0,0,50.0,0,0,50.0,100.0,TRUE,14,
+COT300XE（計算基盤 / Computing technologies 300）セキュア・プログラミング／Secure programming,斉藤　典明（Noriaki SAITO）,0,0,0,0,0,100.0,100.0,TRUE,14,
+OTR400XE（その他 / Others 400）卒業研究ゼミナール／Seminar for bachelor’s degree,三橋　秀生（Hideo MITSUHASHI）,0,0,0,0,0,0,0,FALSE,14,評価割合の記載が抽出できませんでした（LLM出力が空）。 | 評価割合の合計が100%ではありません（合計 0%）。
+OTR400XE（その他 / Others 400）卒業研究／Research for bachelor’s degree,三橋　秀生（Hideo MITSUHASHI）,0,0,0,0,0,0,0,FALSE,14,評価割合の記載が抽出できませんでした（LLM出力が空）。 | 評価割合の合計が100%ではありません（合計 0%）。
+MAT100XE（数学 / Mathematics 100）確率論／Probability Theory,周　金佳（Jinjia ZHOU）,0,0,0,0,0,100.0,100.0,TRUE,14,
+COT300XE（計算基盤 / Computing technologies 300）信号処理理論／Thery of Signal Processing,周　金佳（Jinjia ZHOU）,0,40.0,40.0,0,10.0,10.0,100.0,TRUE,14,
+HUI200XE（人間情報学 / Human informatics 200）データサイエンス1／Data Science 1,平原　誠（Hirahara MAKOTO）,70.0,0,30.0,0,0,0,100.0,TRUE,14,
+COT200XE（計算基盤 / Computing technologies 200）情報工学実験1／Experiments in Information Engineering I,尾川　浩一、平原　誠、金井　敦、和佐　州洋、品川　満、彌冨　仁,0.0,0,0.0,0,0,0,0.0,FALSE,14,評価割合の合計が100%ではありません（合計 0.0%）。
+COT200XE（計算基盤 / Computing technologies 200）ソフトウェア工学／Software Engineering,原　潤一（Junichi HARA）,0,0.0,0.0,0,0.0,0,0.0,FALSE,14,評価割合の合計が100%ではありません（合計 0.0%）。
+HUI200EX（人間情報学 / Human informatics 200）IoTシステム工学／IoT System Engineering,品川　満（Mitsuru SHINAGAWA）,0,70.0,30.0,0,0,0,100.0,TRUE,14,
+HUI200XE（人間情報学 / Human informatics 200）データサイエンス2／Data Science 2,周　金佳（Jinjia ZHOU）,0,40.0,40.0,0,10.0,10.0,100.0,TRUE,14,
+PRI100XE（情報学基礎 / Principles of informatics 100）Introduction to Computer Science and Information Technology／Introduction to Computer Science and Information Technology,周　金佳、彌冨　仁、鳥飼　弘幸、黄　潤和、栗田　太郎、余　恪平,0,0,0,0,0,100.0,100.0,TRUE,14,
+OTR400XE（その他 / Others 400）卒業研究／Research for bachelor’s degree,和佐　州洋（Kunihiro WASA）,0,0,0,0,0,0,0,FALSE,28,評価割合の記載が抽出できませんでした（LLM出力が空）。 | 評価割合の合計が100%ではありません（合計 0%）。
+OTR400XE（その他 / Others 400）卒業研究ゼミナール／Seminar for bachelor’s degree,和佐　州洋（Kunihiro WASA）,0,0,0,0,0,0,0,FALSE,14,評価割合の記載が抽出できませんでした（LLM出力が空）。 | 評価割合の合計が100%ではありません（合計 0%）。

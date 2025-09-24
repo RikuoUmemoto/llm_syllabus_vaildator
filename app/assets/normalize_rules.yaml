@@ -1,0 +1,9 @@
+
+aliases:
+  Quiz: ["小テスト","クイズ","単元テスト","weekly quiz","chapter quiz","確認テスト"]
+  Exam: ["中間試験","期末試験","筆記試験","Final Exam","Midterm","試験","到達度確認"]
+  Report: ["レポート","小レポート","課題レポート","報告書"]
+  Participation: ["授業参加","平常点","出席","Participation","態度","出欠","発言"]
+  Presentation: ["発表","プレゼン","口頭発表","Presentation"]
+  Assignment: ["課題","宿題","Assignment","Homework","提出課題"]
+  Project: ["プロジェクト","Project","グループ制作","最終プロジェクト"]

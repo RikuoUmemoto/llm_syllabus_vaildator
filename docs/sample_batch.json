@@ -1,0 +1,14 @@
+[
+  {
+    "text": "成績評価: 小テスト 20%、期末試験 30%、平常点 半分。週次計画: 第1回...第14回",
+    "use_llm": true,
+    "provider": "openai",
+    "model": "gpt-4o-mini"
+  },
+  {
+    "text": "Grading: Quiz(20%), Final Exam(50%), Participation 25%. Weeks: Week1..Week14.",
+    "use_llm": false,
+    "provider": "none",
+    "model": null
+  }
+]
